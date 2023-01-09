@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\bin\Debug\net6.0\SWITCH CASE.exe
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\bin\Debug\net6.0\SWITCH CASE.deps.json
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\bin\Debug\net6.0\SWITCH CASE.runtimeconfig.json
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\bin\Debug\net6.0\SWITCH CASE.dll
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\bin\Debug\net6.0\SWITCH CASE.pdb
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.dll
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\refint\SWITCH CASE.dll
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.pdb
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\SWITCH CASE.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\SWITCH CASE\SWITCH CASE\SWITCH CASE\obj\Debug\net6.0\ref\SWITCH CASE.dll
